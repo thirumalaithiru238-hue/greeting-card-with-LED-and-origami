@@ -31,8 +31,8 @@ The main objectives of this project are:
 | Decorative materials | As required | Design and appearance |
 | Adhesive/tape | required | Fixing components  ![][image1]  |
 
-## Result 
-![result](circuit.jpg)
+## Circuit
+![Circuit](circuit.jpg)
 
 ## **5\. Block Diagram**
 
